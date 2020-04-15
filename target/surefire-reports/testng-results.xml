@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="181" started-at="2020-04-13T20:28:24 IST" finished-at="2020-04-13T20:28:24 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="181" started-at="2020-04-13T20:28:24 IST" finished-at="2020-04-13T20:28:24 IST">
+      <class name="MavenFromEclipse.SeleniumMavenDemoFromEclipse.MavenFourthTest">
+        <test-method status="PASS" signature="method7()[pri:0, instance:MavenFromEclipse.SeleniumMavenDemoFromEclipse.MavenFourthTest@4b9e13df]" name="method7" duration-ms="17" started-at="2020-04-13T20:28:24 IST" finished-at="2020-04-13T20:28:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method7 -->
+        <test-method status="PASS" signature="method8()[pri:0, instance:MavenFromEclipse.SeleniumMavenDemoFromEclipse.MavenFourthTest@4b9e13df]" name="method8" duration-ms="0" started-at="2020-04-13T20:28:24 IST" finished-at="2020-04-13T20:28:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method8 -->
+      </class> <!-- MavenFromEclipse.SeleniumMavenDemoFromEclipse.MavenFourthTest -->
+      <class name="MavenFromEclipse.SeleniumMavenDemoFromEclipse.MavenThirdTest">
+        <test-method status="PASS" signature="method5()[pri:0, instance:MavenFromEclipse.SeleniumMavenDemoFromEclipse.MavenThirdTest@1d057a39]" name="method5" duration-ms="1" started-at="2020-04-13T20:28:24 IST" finished-at="2020-04-13T20:28:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method5 -->
+        <test-method status="PASS" signature="method6()[pri:0, instance:MavenFromEclipse.SeleniumMavenDemoFromEclipse.MavenThirdTest@1d057a39]" name="method6" duration-ms="1" started-at="2020-04-13T20:28:24 IST" finished-at="2020-04-13T20:28:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method6 -->
+      </class> <!-- MavenFromEclipse.SeleniumMavenDemoFromEclipse.MavenThirdTest -->
+      <class name="MavenFromEclipse.SeleniumMavenDemoFromEclipse.MavenFirstTest">
+        <test-method status="PASS" signature="method1()[pri:0, instance:MavenFromEclipse.SeleniumMavenDemoFromEclipse.MavenFirstTest@2b98378d]" name="method1" duration-ms="1" started-at="2020-04-13T20:28:24 IST" finished-at="2020-04-13T20:28:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:MavenFromEclipse.SeleniumMavenDemoFromEclipse.MavenFirstTest@2b98378d]" name="method2" duration-ms="0" started-at="2020-04-13T20:28:24 IST" finished-at="2020-04-13T20:28:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+      </class> <!-- MavenFromEclipse.SeleniumMavenDemoFromEclipse.MavenFirstTest -->
+      <class name="MavenFromEclipse.SeleniumMavenDemoFromEclipse.MavenSecondTest">
+        <test-method status="PASS" signature="method3()[pri:0, instance:MavenFromEclipse.SeleniumMavenDemoFromEclipse.MavenSecondTest@475530b9]" name="method3" duration-ms="1" started-at="2020-04-13T20:28:24 IST" finished-at="2020-04-13T20:28:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method status="PASS" signature="method4()[pri:0, instance:MavenFromEclipse.SeleniumMavenDemoFromEclipse.MavenSecondTest@475530b9]" name="method4" duration-ms="1" started-at="2020-04-13T20:28:24 IST" finished-at="2020-04-13T20:28:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method4 -->
+      </class> <!-- MavenFromEclipse.SeleniumMavenDemoFromEclipse.MavenSecondTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
