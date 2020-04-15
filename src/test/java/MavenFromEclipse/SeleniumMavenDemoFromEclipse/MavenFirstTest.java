@@ -15,5 +15,10 @@ public class MavenFirstTest {
 	{
 		System.out.println("This is method 2");
 	}
+	@Test
+	public void gitMethod()
+	{
+		System.out.println("This is git method");
+	}
 
 }
